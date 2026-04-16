@@ -1,8 +1,8 @@
 ## Hi, I am Disha Gupta ✨
 
 💻 Computer science student at KR Mangalam University<br/>
-🧠  Aspiring cybersecurity researcher 
-📝  Cybersecurity and Cloudsecurity Enthusiast</br>
+🧠  Aspiring CLOUDSECURITY researcher 
+📝  DEVOPS AND Cloudsecurity Enthusiast</br>
 🖋️  i write articles on cyberbreaches on medium [https://medium.com/@laptopdg7]</br>
 🔒  i create projects related to cybersecurity and LLM </br>
 
