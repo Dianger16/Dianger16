@@ -7,8 +7,8 @@
 🧠 Securing AI systems: LLM assessments, AI supply chain, GenAI governance<br/>
 ☸️ Locking down workloads: Kubernetes, KubeArmor/ModelArmor, CNAPP <br/>
 🌐 SASE in production: Netskope admin on a real enterprise deployment<br/>
-🔬 Building: AI Workload Sentinel · ChangeGuard · AI Cloud Security Guardian<br/>
-🎥 Writing: *Explore AWS with Disha* (100 days) · *Agentic AI Security 101*<br/>
+🔬 Built: AI Workload Sentinel · ChangeGuard · AI Cloud Security Guardian<br/>
+🎥 Writing: *Explore AWS (100 days) · *Agentic AI Security 101*<br/>
 🔗 [Connect on LinkedIn](https://linkedin.com/in/disha-gupta-6588102b9)
 
 ## 🌐 Socials:
