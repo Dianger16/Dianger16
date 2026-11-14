@@ -5,7 +5,7 @@
 
 🏅 AWS Community Builder | Cisco-certified: Ethical Hacking, Cyber Threat Management<br/>
 🧠 Securing AI systems: LLM assessments, AI supply chain, GenAI governance<br/>
-☸️ Locking down workloads: Kubernetes, KubeArmor/ModelArmor, CNAPP (AccuKnox POC)<br/>
+☸️ Locking down workloads: Kubernetes, KubeArmor/ModelArmor, CNAPP <br/>
 🌐 SASE in production: Netskope admin on a real enterprise deployment<br/>
 🔬 Building: AI Workload Sentinel · ChangeGuard · AI Cloud Security Guardian<br/>
 🎥 Writing: *Explore AWS with Disha* (100 days) · *Agentic AI Security 101*<br/>
