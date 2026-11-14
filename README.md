@@ -1,6 +1,6 @@
 ## Hi, I am Disha Gupta ✨
 
-### 🛡️ Security Implementation Analyst @ SecureGap
+### 🛡️ Security Implementation Analyst 
 **Cloud · DevSecOps · AI Security**
 
 🏅 AWS Community Builder | Cisco-certified: Ethical Hacking, Cyber Threat Management<br/>
