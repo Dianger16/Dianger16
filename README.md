@@ -252,18 +252,6 @@ DevOps pipeline project.
 
 ---
 
-## 🏅 Certifications & Community
-
-- AWS Community Builder
-- Netskope AI Security Professional
-- Cisco Junior Cybersecurity Analyst Path
-- Cisco Ethical Hacking
-- Cisco Cyber Threat Management
-- Cisco Endpoint Security
-- Cisco Networking Devices and Initial Configuration
-
----
-
 ## ✍️ Writing & Knowledge Sharing
 
 <p align="center">
