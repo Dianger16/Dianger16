@@ -1,7 +1,7 @@
  
 <p align="center">
   <a href="https://github.com/Dianger16">
-   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:080D1A,100:006D83&height=220&section=header&text=Disha%20Gupta&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cloud%20Security%20%C2%B7%20DevSecOps%20%C2%B7%20AI%20Security&descSize=22&descAlignY=65" width="100%" alt="Disha Gupta - Cloud Security, DevSecOps and AI Security"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:FFD600&height=220&section=header&text=Disha%20Gupta&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cloud%20Security%20%C2%B7%20DevSecOps%20%C2%B7%20AI%20Security&descSize=22&descAlignY=65" width="100%" alt="Disha Gupta - Cloud Security, DevSecOps and AI Security"/>
   </a>
 </p>
 
