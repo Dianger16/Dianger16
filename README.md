@@ -1,7 +1,7 @@
  
 <p align="center">
   <a href="https://github.com/Dianger16">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:FFD600&height=220&section=header&text=Disha%20Gupta&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cloud%20Security%20%C2%B7%20DevSecOps%20%C2%B7%20AI%20Security&descSize=22&descAlignY=65" width="100%" alt="Disha Gupta - Cloud Security, DevSecOps and AI Security"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:6A0DAD&height=220&section=header&text=Disha%20Gupta&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cloud%20Security%20%C2%B7%20DevSecOps%20%C2%B7%20AI%20Security&descSize=22&descAlignY=65" width="100%" alt="Disha Gupta - Cloud Security, DevSecOps and AI Security"/>
   </a>
 </p>
 
@@ -309,7 +309,5 @@ Read more on <a href="https://medium.com/@laptopdg7">Medium</a> and connect on <
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=100&section=footer&text=Build.%20Break.%20Secure.%20Repeat.&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:0A0A0A&height=120&section=footer" width="100%" alt="Purple and black footer banner"/>
 </p>
